@@ -1,0 +1,8 @@
+byr:2000
+iyr:2020
+eyr:2030
+hgt:175cm
+hcl:#888788
+ecl:hzl
+pid:545766238
+cid:88
